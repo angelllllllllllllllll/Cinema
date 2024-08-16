@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(136, 189, 193);
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+li{
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+ul{
+    padding: 0;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(136, 189, 193);
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.img1{
+    width: 20%;
+    height: 30%;
+    padding: 50px;
+    position: left;
+}
+.img2{
+    width: 20%;
+    height: 30%;
+    padding: 50px;
+    position: center;
+}
+.img3{
+    width: 20%;
+    height: 30%;
+    padding: 50px;
+    position: right;
+}
+ul a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
